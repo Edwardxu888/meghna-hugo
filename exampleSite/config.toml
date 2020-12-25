@@ -1,4 +1,4 @@
-baseURL = "https://edwardxu-test.netlify.com"
+baseURL = "https://edwardxu-test.netlify.app"
 disableLanguages = []
 disqusShortname = ""
 paginate = "6"
